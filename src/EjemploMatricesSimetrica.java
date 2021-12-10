@@ -14,7 +14,7 @@ public class EjemploMatricesSimetrica {
             for (int j = 0; j < i; j++) {
                 if (matriz[i][j] != matriz[j][i]) {
                     simetrica = false;
-                    break salir
+                    break salir;
                 }
             }
         }
