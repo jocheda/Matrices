@@ -4,7 +4,6 @@ public class EjemploMatricesBuscar {
                 {35, 90, 3, 1978},
                 {15, 2020, 10, 5},
                 {677, 127, 23767, 1999}
-
         };
 
         int elementoBuscar = 1999;
